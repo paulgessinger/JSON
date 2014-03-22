@@ -25,7 +25,6 @@ JSON::encode(array('abc' => 'def'));
 JSON::decode('{"abc":"def"}') ;
 ```
 
-
 ## Tests
 
 Run the tests by calling `phpunit` in the root dir of the repo
