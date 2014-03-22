@@ -2,4 +2,4 @@
 
 namespace PG\JSON\Exception ;
 
-class SyntaxException extends \Exception {}
+class SyntaxException extends JsonException {}

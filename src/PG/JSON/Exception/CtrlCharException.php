@@ -2,4 +2,4 @@
 
 namespace PG\JSON\Exception ;
 
-class CtrlCharException extends \Exception {}
+class CtrlCharException extends JsonException {}
