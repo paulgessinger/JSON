@@ -1,4 +1,7 @@
-#JSON wrapper for json_decode and json_encode
+# JSON
+## wrapper for json_decode and json_encode
+
+[![Build Status](https://travis-ci.org/paulgessinger/JSON.svg)](https://travis-ci.org/paulgessinger/JSON)
 
 Wraps the json functions in PHP in a static class, and throws specific exceptions
 
